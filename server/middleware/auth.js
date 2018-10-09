@@ -1,6 +1,6 @@
 require('dotenv').load();
 
-const jwt = require('jsonwebtoken');
+var jwt = require('jsonwebtoken');
 
 //make sure user is logged in - Authentication
 
